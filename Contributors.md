@@ -4594,3 +4594,4 @@ first contributions - hanyang univ.
 - [Chirantan Degloorkar](https://github.com/Chirantan2)
 - [Mohamed Soliman] (https://github.com/m-saeed-soliman)
 - [Praneeth Perera](https://github.com/paniya93)
+- [Ricardo Rocha](https://github.com/RicardoRR29)
